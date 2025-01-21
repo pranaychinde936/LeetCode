@@ -1,13 +1,15 @@
 class Solution {
 private:
-    int solve(int n){
+    int solve(int n, vector<int> &dp){
         //base case
-        if(n <= 1)          return n;
+        if(n <= 1)              return n;
+        if(dp[n] != -1)         return dp[n];
 
-        return solve(n-1) + solve(n-2);
+        return dp[n] = solve(n-1, dp) + solve(n-2, dp);
     }
 public:
     int fib(int n) {
-        return solve(n);
+        vector<int> dp(n+1, -1);
+        return solve(n, dp);
     }
 };
