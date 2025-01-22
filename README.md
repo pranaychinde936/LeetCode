@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/pranaychinde936/LeetCode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pranaychinde936/LeetCode/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pranaychinde936/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pranaychinde936/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
