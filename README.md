@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranaychinde936/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pranaychinde936/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/pranaychinde936/LeetCode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
