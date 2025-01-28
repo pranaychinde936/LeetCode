@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pranaychinde936/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/pranaychinde936/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/pranaychinde936/LeetCode/tree/master/0392-is-subsequence) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pranaychinde936/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
