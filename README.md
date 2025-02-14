@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/pranaychinde936/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/pranaychinde936/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/pranaychinde936/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/pranaychinde936/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pranaychinde936/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/pranaychinde936/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/pranaychinde936/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/pranaychinde936/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
