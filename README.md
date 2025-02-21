@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/pranaychinde936/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/pranaychinde936/LeetCode/tree/master/0792-binary-search) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pranaychinde936/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pranaychinde936/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/pranaychinde936/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pranaychinde936/LeetCode/tree/master/0392-is-subsequence) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pranaychinde936/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Sliding Window
 |  |
 | ------- |
