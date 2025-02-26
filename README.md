@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/pranaychinde936/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pranaychinde936/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/pranaychinde936/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pranaychinde936/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/pranaychinde936/LeetCode/tree/master/0782-jewels-and-stones) |
+| [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pranaychinde936/LeetCode/tree/master/0389-find-the-difference) |
+| [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pranaychinde936/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/pranaychinde936/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pranaychinde936/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
