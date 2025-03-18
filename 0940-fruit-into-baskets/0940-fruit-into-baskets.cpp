@@ -8,7 +8,7 @@ public:
         while(r<n){
             hash[fruits[r]]++;
 
-            while(hash.size() > 2){
+            if(hash.size() > 2){
                 hash[fruits[l]]--;
                 if(hash[fruits[l]] == 0)        hash.erase(fruits[l]);
                 l++;
