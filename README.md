@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/pranaychinde936/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0861-flipping-an-image) |
 | [0940-fruit-into-baskets](https://github.com/pranaychinde936/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/pranaychinde936/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pranaychinde936/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pranaychinde936/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pranaychinde936/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/pranaychinde936/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/pranaychinde936/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/pranaychinde936/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1635-number-of-good-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranaychinde936/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/pranaychinde936/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/pranaychinde936/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pranaychinde936/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pranaychinde936/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Stack
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/pranaychinde936/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pranaychinde936/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pranaychinde936/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/pranaychinde936/LeetCode/tree/master/1603-running-sum-of-1d-array) |
