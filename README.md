@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranaychinde936/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pranaychinde936/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/pranaychinde936/LeetCode/tree/master/0283-move-zeroes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranaychinde936/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/pranaychinde936/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pranaychinde936/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/pranaychinde936/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/pranaychinde936/LeetCode/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3778-transform-array-by-parity](https://github.com/pranaychinde936/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pranaychinde936/LeetCode/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
