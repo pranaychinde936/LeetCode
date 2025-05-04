@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pranaychinde936/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/pranaychinde936/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0742-to-lower-case](https://github.com/pranaychinde936/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/pranaychinde936/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/pranaychinde936/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/pranaychinde936/LeetCode/tree/master/1651-shuffle-string) |
