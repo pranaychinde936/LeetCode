@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pranaychinde936/LeetCode/tree/master/0547-number-of-provinces) |
+| [1916-find-center-of-star-graph](https://github.com/pranaychinde936/LeetCode/tree/master/1916-find-center-of-star-graph) |
 ## Greedy
 |  |
 | ------- |
