@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/pranaychinde936/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pranaychinde936/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/pranaychinde936/LeetCode/tree/master/3321-type-of-triangle) |
+| [3371-harshad-number](https://github.com/pranaychinde936/LeetCode/tree/master/3371-harshad-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pranaychinde936/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
