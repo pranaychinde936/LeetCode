@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/pranaychinde936/LeetCode/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pranaychinde936/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pranaychinde936/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pranaychinde936/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/pranaychinde936/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pranaychinde936/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1547-destination-city](https://github.com/pranaychinde936/LeetCode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1635-number-of-good-pairs) |
