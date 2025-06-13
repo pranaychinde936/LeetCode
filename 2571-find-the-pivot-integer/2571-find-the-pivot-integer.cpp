@@ -9,7 +9,7 @@ public:
             lsum += i;
             rsum -= i;
             i++;
-            cout<< lsum<< "  "<< rsum<< endl;
+            // cout<< lsum<< "  "<< rsum<< endl;
         }
 
         return -1;
