@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/pranaychinde936/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3379-score-of-a-string) |
+| [3636-check-balanced-string](https://github.com/pranaychinde936/LeetCode/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
