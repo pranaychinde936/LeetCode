@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/pranaychinde936/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/pranaychinde936/LeetCode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/pranaychinde936/LeetCode/tree/master/3321-type-of-triangle) |
+| [3533-snake-in-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pranaychinde936/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pranaychinde936/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/pranaychinde936/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/pranaychinde936/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3379-score-of-a-string) |
+| [3533-snake-in-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/pranaychinde936/LeetCode/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pranaychinde936/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranaychinde936/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranaychinde936/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/pranaychinde936/LeetCode/tree/master/3226-minimum-number-game) |
+| [3533-snake-in-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3811-reverse-degree-of-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
