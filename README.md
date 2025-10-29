@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/pranaychinde936/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranaychinde936/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2401-count-asterisks](https://github.com/pranaychinde936/LeetCode/tree/master/2401-count-asterisks) |
 | [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/pranaychinde936/LeetCode/tree/master/3194-find-words-containing-character) |
