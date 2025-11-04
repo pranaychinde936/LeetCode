@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/pranaychinde936/LeetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/pranaychinde936/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pranaychinde936/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranaychinde936/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/pranaychinde936/LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1610-xor-operation-in-an-array) |
