@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pranaychinde936/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pranaychinde936/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pranaychinde936/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-destination-city](https://github.com/pranaychinde936/LeetCode/tree/master/1547-destination-city) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/pranaychinde936/LeetCode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/pranaychinde936/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/pranaychinde936/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/pranaychinde936/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
