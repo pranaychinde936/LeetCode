@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/pranaychinde936/LeetCode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/pranaychinde936/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pranaychinde936/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/pranaychinde936/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pranaychinde936/LeetCode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/pranaychinde936/LeetCode/tree/master/3371-harshad-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pranaychinde936/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pranaychinde936/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/pranaychinde936/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/pranaychinde936/LeetCode/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/pranaychinde936/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pranaychinde936/LeetCode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/pranaychinde936/LeetCode/tree/master/3429-special-array-i) |
 | [3533-snake-in-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/pranaychinde936/LeetCode/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/pranaychinde936/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3227-find-missing-and-repeated-values](https://github.com/pranaychinde936/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pranaychinde936/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pranaychinde936/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0861-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/pranaychinde936/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/pranaychinde936/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/pranaychinde936/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
