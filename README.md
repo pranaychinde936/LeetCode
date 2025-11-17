@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/pranaychinde936/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/pranaychinde936/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/pranaychinde936/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/pranaychinde936/LeetCode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pranaychinde936/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/pranaychinde936/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pranaychinde936/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1217-relative-sort-array](https://github.com/pranaychinde936/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/pranaychinde936/LeetCode/tree/master/0389-find-the-difference) |
 | [1137-height-checker](https://github.com/pranaychinde936/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/pranaychinde936/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/pranaychinde936/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/pranaychinde936/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pranaychinde936/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
