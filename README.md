@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/pranaychinde936/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranaychinde936/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/pranaychinde936/LeetCode/tree/master/3321-type-of-triangle) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/pranaychinde936/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/pranaychinde936/LeetCode/tree/master/3429-special-array-i) |
 | [3533-snake-in-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pranaychinde936/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
