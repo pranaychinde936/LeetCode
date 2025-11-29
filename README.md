@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/pranaychinde936/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/pranaychinde936/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1944-truncate-sentence) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/pranaychinde936/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pranaychinde936/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/0867-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/pranaychinde936/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/pranaychinde936/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2048-build-array-from-permutation](https://github.com/pranaychinde936/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pranaychinde936/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranaychinde936/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
