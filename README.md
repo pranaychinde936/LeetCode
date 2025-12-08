@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pranaychinde936/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/pranaychinde936/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/pranaychinde936/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/pranaychinde936/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pranaychinde936/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pranaychinde936/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0090-subsets-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranaychinde936/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/pranaychinde936/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/pranaychinde936/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/pranaychinde936/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/pranaychinde936/LeetCode/tree/master/0202-happy-number) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pranaychinde936/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/pranaychinde936/LeetCode/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/0867-transpose-matrix) |
