@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pranaychinde936/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2595-number-of-even-and-odd-bits](https://github.com/pranaychinde936/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Hash Table
 |  |
 | ------- |
