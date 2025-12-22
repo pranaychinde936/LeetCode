@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/pranaychinde936/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/pranaychinde936/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/pranaychinde936/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pranaychinde936/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/pranaychinde936/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/pranaychinde936/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/pranaychinde936/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/pranaychinde936/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/pranaychinde936/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranaychinde936/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pranaychinde936/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/pranaychinde936/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2128-reverse-prefix-of-word](https://github.com/pranaychinde936/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranaychinde936/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/0867-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/pranaychinde936/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/pranaychinde936/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/pranaychinde936/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranaychinde936/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
