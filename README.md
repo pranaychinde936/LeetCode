@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pranaychinde936/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pranaychinde936/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/pranaychinde936/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/pranaychinde936/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/pranaychinde936/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/pranaychinde936/LeetCode/tree/master/0441-arranging-coins) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranaychinde936/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pranaychinde936/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pranaychinde936/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pranaychinde936/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/pranaychinde936/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pranaychinde936/LeetCode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0861-flipping-an-image) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/pranaychinde936/LeetCode/tree/master/0383-ransom-note) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pranaychinde936/LeetCode/tree/master/0389-find-the-difference) |
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/pranaychinde936/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pranaychinde936/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/pranaychinde936/LeetCode/tree/master/0367-valid-perfect-square) |
