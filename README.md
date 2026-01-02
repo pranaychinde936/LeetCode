@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/pranaychinde936/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/pranaychinde936/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pranaychinde936/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1547-destination-city](https://github.com/pranaychinde936/LeetCode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/pranaychinde936/LeetCode/tree/master/1651-shuffle-string) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pranaychinde936/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/pranaychinde936/LeetCode/tree/master/0409-longest-palindrome) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/pranaychinde936/LeetCode/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pranaychinde936/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/pranaychinde936/LeetCode/tree/master/2756-buy-two-chocolates) |
