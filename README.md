@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pranaychinde936/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2128-reverse-prefix-of-word](https://github.com/pranaychinde936/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranaychinde936/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/pranaychinde936/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2401-count-asterisks](https://github.com/pranaychinde936/LeetCode/tree/master/2401-count-asterisks) |
 | [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/pranaychinde936/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pranaychinde936/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranaychinde936/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/pranaychinde936/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pranaychinde936/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranaychinde936/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranaychinde936/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
