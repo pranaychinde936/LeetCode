@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/0867-transpose-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/pranaychinde936/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0942-di-string-match](https://github.com/pranaychinde936/LeetCode/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pranaychinde936/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/pranaychinde936/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/pranaychinde936/LeetCode/tree/master/1036-rotting-oranges) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pranaychinde936/LeetCode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0861-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/pranaychinde936/LeetCode/tree/master/0942-di-string-match) |
 | [2128-reverse-prefix-of-word](https://github.com/pranaychinde936/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranaychinde936/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/pranaychinde936/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/pranaychinde936/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/pranaychinde936/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0942-di-string-match](https://github.com/pranaychinde936/LeetCode/tree/master/0942-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/pranaychinde936/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pranaychinde936/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/pranaychinde936/LeetCode/tree/master/0409-longest-palindrome) |
+| [0942-di-string-match](https://github.com/pranaychinde936/LeetCode/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/pranaychinde936/LeetCode/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pranaychinde936/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
