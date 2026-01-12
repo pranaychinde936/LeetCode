@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pranaychinde936/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1547-destination-city](https://github.com/pranaychinde936/LeetCode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/pranaychinde936/LeetCode/tree/master/1651-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/pranaychinde936/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/pranaychinde936/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pranaychinde936/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/pranaychinde936/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/pranaychinde936/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
