@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pranaychinde936/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/pranaychinde936/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/pranaychinde936/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranaychinde936/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranaychinde936/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/pranaychinde936/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranaychinde936/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2447-merge-similar-items](https://github.com/pranaychinde936/LeetCode/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
