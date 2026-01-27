@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pranaychinde936/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranaychinde936/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pranaychinde936/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/pranaychinde936/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/pranaychinde936/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranaychinde936/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/pranaychinde936/LeetCode/tree/master/1547-destination-city) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/pranaychinde936/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pranaychinde936/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranaychinde936/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1970-sorting-the-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/pranaychinde936/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pranaychinde936/LeetCode/tree/master/1217-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranaychinde936/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pranaychinde936/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
