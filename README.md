@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/pranaychinde936/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/pranaychinde936/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/pranaychinde936/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2836-neither-minimum-nor-maximum](https://github.com/pranaychinde936/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/pranaychinde936/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pranaychinde936/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/pranaychinde936/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/pranaychinde936/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/pranaychinde936/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3379-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/3533-snake-in-matrix) |
