@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pranaychinde936/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/pranaychinde936/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pranaychinde936/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-find-the-highest-altitude](https://github.com/pranaychinde936/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/pranaychinde936/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/pranaychinde936/LeetCode/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/pranaychinde936/LeetCode/tree/master/1448-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pranaychinde936/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pranaychinde936/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/pranaychinde936/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Database
