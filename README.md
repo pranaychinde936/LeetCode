@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranaychinde936/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/pranaychinde936/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pranaychinde936/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/pranaychinde936/LeetCode/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pranaychinde936/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/pranaychinde936/LeetCode/tree/master/3226-minimum-number-game) |
 | [3533-snake-in-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3811-reverse-degree-of-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
