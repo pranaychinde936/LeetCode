@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/pranaychinde936/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pranaychinde936/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pranaychinde936/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pranaychinde936/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pranaychinde936/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/pranaychinde936/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/pranaychinde936/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pranaychinde936/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pranaychinde936/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pranaychinde936/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pranaychinde936/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/pranaychinde936/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pranaychinde936/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pranaychinde936/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pranaychinde936/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pranaychinde936/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/pranaychinde936/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pranaychinde936/LeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/pranaychinde936/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/pranaychinde936/LeetCode/tree/master/1036-rotting-oranges) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pranaychinde936/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Union Find
 |  |
 | ------- |
