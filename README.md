@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranaychinde936/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/pranaychinde936/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/pranaychinde936/LeetCode/tree/master/0383-ransom-note) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranaychinde936/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pranaychinde936/LeetCode/tree/master/0389-find-the-difference) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/pranaychinde936/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranaychinde936/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pranaychinde936/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/pranaychinde936/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
@@ -645,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pranaychinde936/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pranaychinde936/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -656,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pranaychinde936/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
@@ -679,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/pranaychinde936/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
