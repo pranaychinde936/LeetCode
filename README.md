@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pranaychinde936/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/pranaychinde936/LeetCode/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/pranaychinde936/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/pranaychinde936/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/pranaychinde936/LeetCode/tree/master/1013-fibonacci-number) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pranaychinde936/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pranaychinde936/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pranaychinde936/LeetCode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/pranaychinde936/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/pranaychinde936/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/pranaychinde936/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranaychinde936/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
