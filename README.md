@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/pranaychinde936/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/pranaychinde936/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2079-watering-plants](https://github.com/pranaychinde936/LeetCode/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranaychinde936/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/pranaychinde936/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pranaychinde936/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/pranaychinde936/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2048-build-array-from-permutation](https://github.com/pranaychinde936/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pranaychinde936/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2079-watering-plants](https://github.com/pranaychinde936/LeetCode/tree/master/2079-watering-plants) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranaychinde936/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/pranaychinde936/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pranaychinde936/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
