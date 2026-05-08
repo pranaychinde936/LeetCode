@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pranaychinde936/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/pranaychinde936/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/pranaychinde936/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/pranaychinde936/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/pranaychinde936/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/pranaychinde936/LeetCode/tree/master/0441-arranging-coins) |
@@ -707,4 +708,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/pranaychinde936/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/pranaychinde936/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
