@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/pranaychinde936/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/pranaychinde936/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2678-number-of-senior-citizens](https://github.com/pranaychinde936/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/pranaychinde936/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/pranaychinde936/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/pranaychinde936/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/pranaychinde936/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/pranaychinde936/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/pranaychinde936/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2756-buy-two-chocolates](https://github.com/pranaychinde936/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/pranaychinde936/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pranaychinde936/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/pranaychinde936/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pranaychinde936/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pranaychinde936/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/pranaychinde936/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/pranaychinde936/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
