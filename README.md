@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pranaychinde936/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/pranaychinde936/LeetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/pranaychinde936/LeetCode/tree/master/1013-fibonacci-number) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/pranaychinde936/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pranaychinde936/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pranaychinde936/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/pranaychinde936/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/pranaychinde936/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pranaychinde936/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/pranaychinde936/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pranaychinde936/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pranaychinde936/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pranaychinde936/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/pranaychinde936/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/pranaychinde936/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pranaychinde936/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/pranaychinde936/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pranaychinde936/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/pranaychinde936/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/pranaychinde936/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
