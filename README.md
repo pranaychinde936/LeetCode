@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/pranaychinde936/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-truncate-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1944-truncate-sentence) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pranaychinde936/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2048-build-array-from-permutation](https://github.com/pranaychinde936/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/pranaychinde936/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/pranaychinde936/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pranaychinde936/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pranaychinde936/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/pranaychinde936/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/pranaychinde936/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pranaychinde936/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pranaychinde936/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/pranaychinde936/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/pranaychinde936/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/pranaychinde936/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pranaychinde936/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/pranaychinde936/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
