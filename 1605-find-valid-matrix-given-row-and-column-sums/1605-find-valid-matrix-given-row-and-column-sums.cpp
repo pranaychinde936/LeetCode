@@ -5,12 +5,24 @@ public:
         int n = colSum.size();
         vector<vector<int>> ans(m, vector<int> (n, 0));
 
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                int val = min(rowSum[i], colSum[j]);
-                ans[i][j] = val;
-                rowSum[i] -= val;
-                colSum[j] -= val;
+        int i = 0, j = 0;
+
+        while(i < m && j < n){
+            if(rowSum[i] < colSum[j]){
+                ans[i][j] = rowSum[i];
+                colSum[j] -= rowSum[i];
+                rowSum[i] = 0;
+                i++;
+            }
+            else if(rowSum[i] > colSum[j]){
+                ans[i][j] = colSum[j];
+                rowSum[i] -= colSum[j];
+                colSum[j] = 0;
+                j++;
+            }
+            else{
+                ans[i][j] = rowSum[i];
+                i++; j++;
             }
         }
 
