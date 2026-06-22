@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pranaychinde936/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1324-print-words-vertically](https://github.com/pranaychinde936/LeetCode/tree/master/1324-print-words-vertically) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranaychinde936/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/pranaychinde936/LeetCode/tree/master/1023-camelcase-matching) |
 | [1205-defanging-an-ip-address](https://github.com/pranaychinde936/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1324-print-words-vertically](https://github.com/pranaychinde936/LeetCode/tree/master/1324-print-words-vertically) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pranaychinde936/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1547-destination-city](https://github.com/pranaychinde936/LeetCode/tree/master/1547-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranaychinde936/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/0867-transpose-matrix) |
+| [1324-print-words-vertically](https://github.com/pranaychinde936/LeetCode/tree/master/1324-print-words-vertically) |
 | [1806-count-of-matches-in-tournament](https://github.com/pranaychinde936/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/pranaychinde936/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2048-build-array-from-permutation](https://github.com/pranaychinde936/LeetCode/tree/master/2048-build-array-from-permutation) |
