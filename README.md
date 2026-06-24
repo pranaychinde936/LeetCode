@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pranaychinde936/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1324-print-words-vertically](https://github.com/pranaychinde936/LeetCode/tree/master/1324-print-words-vertically) |
+| [1338-reduce-array-size-to-the-half](https://github.com/pranaychinde936/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranaychinde936/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/pranaychinde936/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/pranaychinde936/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1338-reduce-array-size-to-the-half](https://github.com/pranaychinde936/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranaychinde936/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/pranaychinde936/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/pranaychinde936/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1338-reduce-array-size-to-the-half](https://github.com/pranaychinde936/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranaychinde936/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1630-arithmetic-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1630-arithmetic-subarrays) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/pranaychinde936/LeetCode/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/pranaychinde936/LeetCode/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1338-reduce-array-size-to-the-half](https://github.com/pranaychinde936/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1448-maximum-69-number](https://github.com/pranaychinde936/LeetCode/tree/master/1448-maximum-69-number) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pranaychinde936/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pranaychinde936/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -734,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pranaychinde936/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1338-reduce-array-size-to-the-half](https://github.com/pranaychinde936/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pranaychinde936/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/pranaychinde936/LeetCode/tree/master/3226-minimum-number-game) |
