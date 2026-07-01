@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pranaychinde936/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-find-the-highest-altitude](https://github.com/pranaychinde936/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/pranaychinde936/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pranaychinde936/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-truncate-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1944-truncate-sentence) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pranaychinde936/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranaychinde936/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pranaychinde936/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1630-arithmetic-subarrays](https://github.com/pranaychinde936/LeetCode/tree/master/1630-arithmetic-subarrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pranaychinde936/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pranaychinde936/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1970-sorting-the-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranaychinde936/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/pranaychinde936/LeetCode/tree/master/0942-di-string-match) |
 | [1023-camelcase-matching](https://github.com/pranaychinde936/LeetCode/tree/master/1023-camelcase-matching) |
 | [1768-merge-strings-alternately](https://github.com/pranaychinde936/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pranaychinde936/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/pranaychinde936/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pranaychinde936/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/pranaychinde936/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/pranaychinde936/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pranaychinde936/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pranaychinde936/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pranaychinde936/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/pranaychinde936/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/pranaychinde936/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Database
