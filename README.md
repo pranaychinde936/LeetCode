@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/pranaychinde936/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/pranaychinde936/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/pranaychinde936/LeetCode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/pranaychinde936/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/pranaychinde936/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/pranaychinde936/LeetCode/tree/master/1944-truncate-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/pranaychinde936/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/pranaychinde936/LeetCode/tree/master/0682-baseball-game) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranaychinde936/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranaychinde936/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/pranaychinde936/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/pranaychinde936/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/pranaychinde936/LeetCode/tree/master/1324-print-words-vertically) |
 | [1701-average-waiting-time](https://github.com/pranaychinde936/LeetCode/tree/master/1701-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/pranaychinde936/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/pranaychinde936/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/pranaychinde936/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2048-build-array-from-permutation](https://github.com/pranaychinde936/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pranaychinde936/LeetCode/tree/master/2058-concatenation-of-array) |
