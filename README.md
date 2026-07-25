@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pranaychinde936/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/pranaychinde936/LeetCode/tree/master/0792-binary-search) |
 | [0832-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/pranaychinde936/LeetCode/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pranaychinde936/LeetCode/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/pranaychinde936/LeetCode/tree/master/0890-find-and-replace-pattern) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pranaychinde936/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/pranaychinde936/LeetCode/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/pranaychinde936/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/pranaychinde936/LeetCode/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pranaychinde936/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1338-reduce-array-size-to-the-half](https://github.com/pranaychinde936/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
