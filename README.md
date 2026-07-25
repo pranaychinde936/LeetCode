@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pranaychinde936/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pranaychinde936/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/pranaychinde936/LeetCode/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/pranaychinde936/LeetCode/tree/master/0338-counting-bits) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pranaychinde936/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/pranaychinde936/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pranaychinde936/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/pranaychinde936/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pranaychinde936/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/pranaychinde936/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pranaychinde936/LeetCode/tree/master/0075-sort-colors) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pranaychinde936/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/pranaychinde936/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/pranaychinde936/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/pranaychinde936/LeetCode/tree/master/0763-partition-labels) |
