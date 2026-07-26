@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/pranaychinde936/LeetCode/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/pranaychinde936/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/pranaychinde936/LeetCode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/pranaychinde936/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/pranaychinde936/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pranaychinde936/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/pranaychinde936/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/pranaychinde936/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/pranaychinde936/LeetCode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranaychinde936/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pranaychinde936/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pranaychinde936/LeetCode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/pranaychinde936/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/pranaychinde936/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0922-sort-array-by-parity-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/pranaychinde936/LeetCode/tree/master/1137-height-checker) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pranaychinde936/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/pranaychinde936/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/pranaychinde936/LeetCode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/pranaychinde936/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/pranaychinde936/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/pranaychinde936/LeetCode/tree/master/0860-lemonade-change) |
