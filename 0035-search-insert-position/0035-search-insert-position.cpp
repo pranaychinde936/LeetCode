@@ -15,6 +15,6 @@ public:
             }
         }
 
-        return e+1;
+        return s;
     }
 };
