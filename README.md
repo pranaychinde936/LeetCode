@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/pranaychinde936/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/pranaychinde936/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Design
 |  |
@@ -813,4 +814,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/pranaychinde936/LeetCode/tree/master/0292-nim-game) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/pranaychinde936/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
