@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pranaychinde936/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranaychinde936/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/pranaychinde936/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/pranaychinde936/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/pranaychinde936/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pranaychinde936/LeetCode/tree/master/0268-missing-number) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranaychinde936/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranaychinde936/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pranaychinde936/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/pranaychinde936/LeetCode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/pranaychinde936/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranaychinde936/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/pranaychinde936/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pranaychinde936/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pranaychinde936/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/pranaychinde936/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/pranaychinde936/LeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/pranaychinde936/LeetCode/tree/master/0861-flipping-an-image) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranaychinde936/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/pranaychinde936/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pranaychinde936/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/pranaychinde936/LeetCode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/pranaychinde936/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pranaychinde936/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/pranaychinde936/LeetCode/tree/master/0547-number-of-provinces) |
@@ -817,5 +821,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pranaychinde936/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pranaychinde936/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
